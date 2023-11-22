@@ -1,30 +1,18 @@
   
 
-# Local Business Marketing Application Documentation
-
-  
+# Local Business Marketing Application Documentation ( 3 hours Project )
 
 ## Introduction
 
-  
-
 The Local Business Marketing Application is a web-based platform designed to support local businesses in marketing their products or services. The application facilitates the connection between businesses and customers, aiming to build strong local business relationships and promote the sale of goods or services.
 
-  
-
-  
-
 ## Table of Contents
-
-  
 
 1. Getting Started
 
 - Prerequisites
 
 - Installation
-
-  
 
 2. Features
 
@@ -52,11 +40,7 @@ The Local Business Marketing Application is a web-based platform designed to sup
 
 5. File Structure
 
-  
-
 ## 1. Getting Started
-
-  
 
 ### Prerequisites
 
@@ -65,8 +49,6 @@ The Local Business Marketing Application is a web-based platform designed to sup
 - MySQL database server
 
 - Bootstrap v5.3.2 library
-
--
 
 ### Installation
 
