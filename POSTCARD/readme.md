@@ -74,7 +74,7 @@ The Local Business Marketing Application is a web-based platform designed to sup
 
 ```bash
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Makufff/BASICWEB101.git
 
 ```
 
